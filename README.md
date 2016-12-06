@@ -27,3 +27,7 @@ https://www.w3.org/TR/geofencing/
 w3c serviceworkers demos:
 
 https://github.com/w3c-webmob/ServiceWorkersDemos
+
+html5 test on browsers:
+
+https://html5test.com/compare/browser/ie-11/chrome-52/edge-14/firefox-48.html
