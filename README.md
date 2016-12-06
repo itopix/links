@@ -37,3 +37,7 @@ https://github.com/w3c-webmob/ServiceWorkersDemos
 html5 test on browsers:
 
 https://html5test.com/compare/browser/ie-11/chrome-52/edge-14/firefox-48.html
+
+redux:
+
+http://redux.js.org/docs/introduction/
