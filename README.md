@@ -23,3 +23,7 @@ https://code.visualstudio.com/blogs/2016/02/23/introducing-chrome-debugger-for-v
 Geofencing:
 
 https://www.w3.org/TR/geofencing/
+
+w3c serviceworkers demos:
+
+https://github.com/w3c-webmob/ServiceWorkersDemos
