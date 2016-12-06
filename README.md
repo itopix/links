@@ -41,3 +41,8 @@ https://html5test.com/compare/browser/ie-11/chrome-52/edge-14/firefox-48.html
 redux:
 
 http://redux.js.org/docs/introduction/
+
+
+typings etc
+
+https://semaphoreci.com/community/tutorials/setting-up-angular-2-with-webpack
