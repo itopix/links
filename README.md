@@ -19,3 +19,7 @@ debug with vs code:
 https://blogs.msdn.microsoft.com/cdndevs/2015/12/21/visual-studio-code-debugger-for-chrome-extension/
 
 https://code.visualstudio.com/blogs/2016/02/23/introducing-chrome-debugger-for-vs-code
+
+Geofencing:
+
+https://www.w3.org/TR/geofencing/
