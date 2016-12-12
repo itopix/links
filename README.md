@@ -12,7 +12,7 @@ https://codelabs.developers.google.com/codelabs/debugging-service-workers/index.
 
 debug:
 
-angular 2.0, 2.1?
+in angular 2.0, 2.1, 2.x?
 
 https://augury.angular.io/pages/guides/
 
