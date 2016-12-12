@@ -46,3 +46,7 @@ http://redux.js.org/docs/introduction/
 typings etc
 
 https://semaphoreci.com/community/tutorials/setting-up-angular-2-with-webpack
+
+Caching (Redis):
+
+http://piotrwalat.net/using-redis-with-asp-net-web-api/
