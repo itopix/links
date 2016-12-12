@@ -50,3 +50,9 @@ https://semaphoreci.com/community/tutorials/setting-up-angular-2-with-webpack
 Caching (Redis):
 
 http://piotrwalat.net/using-redis-with-asp-net-web-api/
+
+Webapi:
+
+Asp.net Core 1.0:
+
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api
