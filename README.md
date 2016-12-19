@@ -42,6 +42,10 @@ redux:
 
 http://redux.js.org/docs/introduction/
 
+beacons:
+
+https://github.com/mikebluestein/AndroidBeaconDemo
+
 
 typings etc
 
